@@ -90,4 +90,5 @@ Each agent is assigned a specific task:
    → Displayed to the user in the UI.
    → Saved in the session history for future reference.
 
+<img width="852" height="762" alt="image" src="https://github.com/user-attachments/assets/78f3bdaf-25b1-4462-8629-c480a996f550" />
 
